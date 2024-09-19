@@ -1,0 +1,10 @@
+D:\Files C# VS (Purple)\School Projects\Picture_viewer\bin\Debug\Picture_viewer.exe.config
+D:\Files C# VS (Purple)\School Projects\Picture_viewer\bin\Debug\Picture_viewer.exe
+D:\Files C# VS (Purple)\School Projects\Picture_viewer\bin\Debug\Picture_viewer.pdb
+D:\Files C# VS (Purple)\School Projects\Picture_viewer\obj\Debug\Picture_viewer.csproj.AssemblyReference.cache
+D:\Files C# VS (Purple)\School Projects\Picture_viewer\obj\Debug\Picture_viewer.Form1.resources
+D:\Files C# VS (Purple)\School Projects\Picture_viewer\obj\Debug\Picture_viewer.Properties.Resources.resources
+D:\Files C# VS (Purple)\School Projects\Picture_viewer\obj\Debug\Picture_viewer.csproj.GenerateResource.cache
+D:\Files C# VS (Purple)\School Projects\Picture_viewer\obj\Debug\Picture_viewer.csproj.CoreCompileInputs.cache
+D:\Files C# VS (Purple)\School Projects\Picture_viewer\obj\Debug\Picture_viewer.exe
+D:\Files C# VS (Purple)\School Projects\Picture_viewer\obj\Debug\Picture_viewer.pdb
