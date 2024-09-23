@@ -1,0 +1,10 @@
+D:\Files C# VS (Purple)\School Projects\File_Explorer\bin\Debug\File_Explorer.exe.config
+D:\Files C# VS (Purple)\School Projects\File_Explorer\bin\Debug\File_Explorer.exe
+D:\Files C# VS (Purple)\School Projects\File_Explorer\bin\Debug\File_Explorer.pdb
+D:\Files C# VS (Purple)\School Projects\File_Explorer\obj\Debug\File_Explorer.csproj.AssemblyReference.cache
+D:\Files C# VS (Purple)\School Projects\File_Explorer\obj\Debug\File_Explorer.Form1.resources
+D:\Files C# VS (Purple)\School Projects\File_Explorer\obj\Debug\File_Explorer.Properties.Resources.resources
+D:\Files C# VS (Purple)\School Projects\File_Explorer\obj\Debug\File_Explorer.csproj.GenerateResource.cache
+D:\Files C# VS (Purple)\School Projects\File_Explorer\obj\Debug\File_Explorer.csproj.CoreCompileInputs.cache
+D:\Files C# VS (Purple)\School Projects\File_Explorer\obj\Debug\File_Explorer.exe
+D:\Files C# VS (Purple)\School Projects\File_Explorer\obj\Debug\File_Explorer.pdb
