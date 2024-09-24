@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Windows.Forms;
-
+// Testing
 namespace File_Explorer
 {
     public partial class Form1 : Form
@@ -239,6 +239,11 @@ namespace File_Explorer
             {
                 listView1.Items.Add(new ListViewItem(Path.GetFileName(file)) { Tag = file });
             }
+        }
+
+        private void webBrowser1_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
+        {
+
         }
     }
 }

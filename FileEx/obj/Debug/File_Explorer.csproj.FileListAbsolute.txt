@@ -18,3 +18,13 @@ C:\Users\PHUONG NGHI\Desktop\NT106.P12\FileEx\obj\Debug\File_Explorer.csproj.Gen
 C:\Users\PHUONG NGHI\Desktop\NT106.P12\FileEx\obj\Debug\File_Explorer.csproj.CoreCompileInputs.cache
 C:\Users\PHUONG NGHI\Desktop\NT106.P12\FileEx\obj\Debug\File_Explorer.exe
 C:\Users\PHUONG NGHI\Desktop\NT106.P12\FileEx\obj\Debug\File_Explorer.pdb
+D:\Bài tập chương 1\NT106.P12\FileEx\bin\Debug\File_Explorer.exe.config
+D:\Bài tập chương 1\NT106.P12\FileEx\bin\Debug\File_Explorer.exe
+D:\Bài tập chương 1\NT106.P12\FileEx\bin\Debug\File_Explorer.pdb
+D:\Bài tập chương 1\NT106.P12\FileEx\obj\Debug\File_Explorer.csproj.AssemblyReference.cache
+D:\Bài tập chương 1\NT106.P12\FileEx\obj\Debug\File_Explorer.Form1.resources
+D:\Bài tập chương 1\NT106.P12\FileEx\obj\Debug\File_Explorer.Properties.Resources.resources
+D:\Bài tập chương 1\NT106.P12\FileEx\obj\Debug\File_Explorer.csproj.GenerateResource.cache
+D:\Bài tập chương 1\NT106.P12\FileEx\obj\Debug\File_Explorer.csproj.CoreCompileInputs.cache
+D:\Bài tập chương 1\NT106.P12\FileEx\obj\Debug\File_Explorer.exe
+D:\Bài tập chương 1\NT106.P12\FileEx\obj\Debug\File_Explorer.pdb
