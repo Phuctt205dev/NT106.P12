@@ -8,3 +8,13 @@ D:\Files C# VS (Purple)\School Projects\File_Explorer\obj\Debug\File_Explorer.cs
 D:\Files C# VS (Purple)\School Projects\File_Explorer\obj\Debug\File_Explorer.csproj.CoreCompileInputs.cache
 D:\Files C# VS (Purple)\School Projects\File_Explorer\obj\Debug\File_Explorer.exe
 D:\Files C# VS (Purple)\School Projects\File_Explorer\obj\Debug\File_Explorer.pdb
+C:\Users\PHUONG NGHI\Desktop\NT106.P12\FileEx\bin\Debug\File_Explorer.exe.config
+C:\Users\PHUONG NGHI\Desktop\NT106.P12\FileEx\bin\Debug\File_Explorer.exe
+C:\Users\PHUONG NGHI\Desktop\NT106.P12\FileEx\bin\Debug\File_Explorer.pdb
+C:\Users\PHUONG NGHI\Desktop\NT106.P12\FileEx\obj\Debug\File_Explorer.csproj.AssemblyReference.cache
+C:\Users\PHUONG NGHI\Desktop\NT106.P12\FileEx\obj\Debug\File_Explorer.Form1.resources
+C:\Users\PHUONG NGHI\Desktop\NT106.P12\FileEx\obj\Debug\File_Explorer.Properties.Resources.resources
+C:\Users\PHUONG NGHI\Desktop\NT106.P12\FileEx\obj\Debug\File_Explorer.csproj.GenerateResource.cache
+C:\Users\PHUONG NGHI\Desktop\NT106.P12\FileEx\obj\Debug\File_Explorer.csproj.CoreCompileInputs.cache
+C:\Users\PHUONG NGHI\Desktop\NT106.P12\FileEx\obj\Debug\File_Explorer.exe
+C:\Users\PHUONG NGHI\Desktop\NT106.P12\FileEx\obj\Debug\File_Explorer.pdb

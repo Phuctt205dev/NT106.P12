@@ -29,11 +29,11 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            System.Windows.Forms.TreeNode treeNode1 = new System.Windows.Forms.TreeNode("C disk");
-            System.Windows.Forms.TreeNode treeNode2 = new System.Windows.Forms.TreeNode("D disk");
-            System.Windows.Forms.TreeNode treeNode3 = new System.Windows.Forms.TreeNode("My PC", new System.Windows.Forms.TreeNode[] {
-            treeNode1,
-            treeNode2});
+            System.Windows.Forms.TreeNode treeNode4 = new System.Windows.Forms.TreeNode("C disk");
+            System.Windows.Forms.TreeNode treeNode5 = new System.Windows.Forms.TreeNode("D disk");
+            System.Windows.Forms.TreeNode treeNode6 = new System.Windows.Forms.TreeNode("My PC", new System.Windows.Forms.TreeNode[] {
+            treeNode4,
+            treeNode5});
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
             this.toolStripDropDownButton1 = new System.Windows.Forms.ToolStripDropDownButton();
             this.folderToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -42,9 +42,9 @@
             this.toolStripButton2 = new System.Windows.Forms.ToolStripButton();
             this.toolStripButton4 = new System.Windows.Forms.ToolStripButton();
             this.toolStripButton3 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
             this.listView1 = new System.Windows.Forms.ListView();
             this.treeView1 = new System.Windows.Forms.TreeView();
-            this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
             this.toolStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -62,7 +62,7 @@
             this.toolStripSeparator2});
             this.toolStrip1.Location = new System.Drawing.Point(9, 0);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(264, 27);
+            this.toolStrip1.Size = new System.Drawing.Size(303, 27);
             this.toolStrip1.TabIndex = 2;
             this.toolStrip1.Text = "toolStrip1";
             // 
@@ -80,8 +80,9 @@
             // folderToolStripMenuItem
             // 
             this.folderToolStripMenuItem.Name = "folderToolStripMenuItem";
-            this.folderToolStripMenuItem.Size = new System.Drawing.Size(134, 26);
+            this.folderToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.folderToolStripMenuItem.Text = "Folder";
+            this.folderToolStripMenuItem.Click += new System.EventHandler(this.folderToolStripMenuItem_Click);
             // 
             // toolStripSeparator1
             // 
@@ -96,6 +97,7 @@
             this.toolStripButton1.Name = "toolStripButton1";
             this.toolStripButton1.Size = new System.Drawing.Size(47, 24);
             this.toolStripButton1.Text = "Copy";
+            this.toolStripButton1.Click += new System.EventHandler(this.toolStripButton1_Click);
             // 
             // toolStripButton2
             // 
@@ -105,6 +107,7 @@
             this.toolStripButton2.Name = "toolStripButton2";
             this.toolStripButton2.Size = new System.Drawing.Size(35, 24);
             this.toolStripButton2.Text = "Cut";
+            this.toolStripButton2.Click += new System.EventHandler(this.toolStripButton2_Click);
             // 
             // toolStripButton4
             // 
@@ -114,6 +117,7 @@
             this.toolStripButton4.Name = "toolStripButton4";
             this.toolStripButton4.Size = new System.Drawing.Size(47, 24);
             this.toolStripButton4.Text = "Paste";
+            this.toolStripButton4.Click += new System.EventHandler(this.toolStripButton4_Click);
             // 
             // toolStripButton3
             // 
@@ -123,6 +127,12 @@
             this.toolStripButton3.Name = "toolStripButton3";
             this.toolStripButton3.Size = new System.Drawing.Size(57, 24);
             this.toolStripButton3.Text = "Delete";
+            this.toolStripButton3.Click += new System.EventHandler(this.toolStripButton3_Click);
+            // 
+            // toolStripSeparator2
+            // 
+            this.toolStripSeparator2.Name = "toolStripSeparator2";
+            this.toolStripSeparator2.Size = new System.Drawing.Size(6, 27);
             // 
             // listView1
             // 
@@ -145,22 +155,17 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.treeView1.Location = new System.Drawing.Point(12, 30);
             this.treeView1.Name = "treeView1";
-            treeNode1.Name = "C";
-            treeNode1.Text = "C disk";
-            treeNode2.Name = "D";
-            treeNode2.Text = "D disk";
-            treeNode3.Name = "MyPC";
-            treeNode3.Text = "My PC";
+            treeNode4.Name = "C";
+            treeNode4.Text = "C disk";
+            treeNode5.Name = "D";
+            treeNode5.Text = "D disk";
+            treeNode6.Name = "MyPC";
+            treeNode6.Text = "My PC";
             this.treeView1.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-            treeNode3});
+            treeNode6});
             this.treeView1.Size = new System.Drawing.Size(227, 408);
             this.treeView1.TabIndex = 4;
             this.treeView1.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.treeView1_AfterSelect);
-            // 
-            // toolStripSeparator2
-            // 
-            this.toolStripSeparator2.Name = "toolStripSeparator2";
-            this.toolStripSeparator2.Size = new System.Drawing.Size(6, 27);
             // 
             // Form1
             // 
