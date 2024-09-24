@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Windows.Forms;
-// Testing
+
 namespace File_Explorer
 {
     public partial class Form1 : Form
@@ -9,8 +9,8 @@ namespace File_Explorer
         // Khai báo các biến cấp lớp
         private string cutFilePath;     // Đường dẫn của file/thư mục đã được cắt
         private bool isCutFolder;       // Xác định xem mục được cắt là thư mục hay file
-        private bool isCut;             // Xác định nếu thao tác là cắt hoặc sao chép
-
+        private bool isCut;   
+        // Xác định nếu thao tác là cắt hoặc sao chép
         public Form1()
         {
             InitializeComponent();
@@ -241,9 +241,33 @@ namespace File_Explorer
             }
         }
 
-        private void webBrowser1_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
+        private void button3_Click(object sender, EventArgs e)
         {
+            using (FolderBrowserDialog fbd = new FolderBrowserDialog() { Description = "Select your path." })
+            {
+                if (fbd.ShowDialog() == DialogResult.OK)
+                {
+                    Web.Url = new Uri(fbd.SelectedPath);
+                    textBox1.Text = fbd.SelectedPath; 
+                }
+            }
+        }
+
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (Web.CanGoBack)
+                Web.GoBack();
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+           if(Web.CanGoForward)
+                Web.GoForward();
+
+
+        }
+
     }
 }
