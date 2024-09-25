@@ -32,7 +32,8 @@ namespace File_Explorer
         {
             if (listView1.SelectedItems.Count > 0)
             {
-                cutFilePath = Path.Combine(treeView1.SelectedNode.Tag.ToString(), listView1.SelectedItems[0].Text);
+                //cutFilePath = Path.Combine(treeView1.SelectedNode.Tag.ToString(), listView1.SelectedItems[0].Text);
+                cutFilePath=textBox1.Text;
                 isCut = false; // Đánh dấu thao tác là sao chép
                 MessageBox.Show("Đã sao chép: " + cutFilePath);
             }
@@ -47,7 +48,8 @@ namespace File_Explorer
         {
             if (listView1.SelectedItems.Count > 0)
             {
-                cutFilePath = Path.Combine(treeView1.SelectedNode.Tag.ToString(), listView1.SelectedItems[0].Text);
+                //cutFilePath = Path.Combine(treeView1.SelectedNode.Tag.ToString(), listView1.SelectedItems[0].Text);
+                cutFilePath = textBox1.Text;
                 isCut = true; 
 
                
@@ -66,8 +68,8 @@ namespace File_Explorer
         {
             if (!string.IsNullOrEmpty(cutFilePath))
             {
-                
-                string destinationPath = treeView1.SelectedNode.Tag.ToString();
+
+                string destinationPath = /*treeView1.SelectedNode.Tag.ToString();*/textBox1.Text;
 
                 try
                 {
@@ -267,5 +269,41 @@ namespace File_Explorer
 
         }
 
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            string path = textBox1.Text;
+
+            if (Directory.Exists(path))
+            {
+                listView1.Items.Clear();
+
+                try
+                {
+                    DirectoryInfo directoryInfo = new DirectoryInfo(path);
+                    foreach (DirectoryInfo subDirectory in directoryInfo.GetDirectories())
+                    {
+                        ListViewItem item = new ListViewItem(subDirectory.Name);
+                        item.SubItems.Add("Directory");
+                        listView1.Items.Add(item);
+                    }
+
+                    foreach (FileInfo file in directoryInfo.GetFiles())
+                    {
+                        ListViewItem item = new ListViewItem(file.Name);
+                        item.SubItems.Add("File");
+                        listView1.Items.Add(item);
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Error: " + ex.Message);
+                }
+            }
+        }
+
+        private void Web_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
+        {
+
+        }
     }
 }
