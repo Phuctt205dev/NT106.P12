@@ -1,0 +1,13 @@
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\Example\bin\Debug\Example.exe.config
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\Example\bin\Debug\Example.exe
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\Example\bin\Debug\Example.pdb
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\Example\bin\Debug\TCPAsynchronousClient.dll
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\Example\bin\Debug\TCPAsynchronousClient.pdb
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\Example\obj\Debug\Example.csproj.AssemblyReference.cache
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\Example\obj\Debug\Example.Form1.resources
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\Example\obj\Debug\Example.Properties.Resources.resources
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\Example\obj\Debug\Example.csproj.GenerateResource.cache
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\Example\obj\Debug\Example.csproj.Up2Date
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\Example\obj\Debug\Example.exe
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\Example\obj\Debug\Example.pdb

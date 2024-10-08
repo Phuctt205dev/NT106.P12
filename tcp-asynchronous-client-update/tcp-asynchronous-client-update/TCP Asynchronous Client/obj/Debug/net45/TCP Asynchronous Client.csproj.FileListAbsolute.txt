@@ -1,0 +1,9 @@
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\TCP Asynchronous Client\bin\Debug\net45\TCPAsynchronousClient.dll
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\TCP Asynchronous Client\bin\Debug\net45\TCPAsynchronousClient.pdb
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\TCP Asynchronous Client\obj\Debug\net45\TCP Asynchronous Client.csproj.AssemblyReference.cache
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\TCP Asynchronous Client\obj\Debug\net45\TCP Asynchronous Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\TCP Asynchronous Client\obj\Debug\net45\TCP Asynchronous Client.AssemblyInfoInputs.cache
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\TCP Asynchronous Client\obj\Debug\net45\TCP Asynchronous Client.AssemblyInfo.cs
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\TCP Asynchronous Client\obj\Debug\net45\TCP Asynchronous Client.csproj.CoreCompileInputs.cache
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\TCP Asynchronous Client\obj\Debug\net45\TCPAsynchronousClient.dll
+C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\TCP Asynchronous Client\obj\Debug\net45\TCPAsynchronousClient.pdb

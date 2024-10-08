@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tc+ZTpGmjbk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PHUONG NGHI\\Downloads\\tcp-asynchronous-client-update\\tcp-asynchronous-client-update\\TCP Asynchronous Client\\TCP Asynchronous Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PHUONG NGHI\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\PHUONG NGHI\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\PHUONG NGHI\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net45\\1.0.3\\microsoft.netframework.referenceassemblies.net45.1.0.3.nupkg.sha512",
+    "C:\\Users\\PHUONG NGHI\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TCPAsynchronousClient</id>
+    <version>2.0.0</version>
+    <authors>Pasan Bhanu Guruge</authors>
+    <projectUrl>https://www.softinklab.com/</projectUrl>
+    <iconUrl>https://i.ibb.co/FgZtvyf/image.png</iconUrl>
+    <description>TCP Asynchronous Client DLL for C#. Send and Receive Data with TCP Server Asynchronously in C# Applications</description>
+    <copyright>Copyright ©  2019 Softink Lab</copyright>
+    <tags>v2.0</tags>
+    <repository type="git" url="https://github.com/PasanBhanu/tcp-asynchronous-client" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.5" />
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\TCP Asynchronous Client\bin\Debug\net45\TCPAsynchronousClient.dll" target="lib\net45\TCPAsynchronousClient.dll" />
+    <file src="C:\Users\PHUONG NGHI\Downloads\tcp-asynchronous-client-update\tcp-asynchronous-client-update\TCP Asynchronous Client\bin\Debug\netstandard2.0\TCPAsynchronousClient.dll" target="lib\netstandard2.0\TCPAsynchronousClient.dll" />
+  </files>
+</package>
